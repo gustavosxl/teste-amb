@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "name": "nova-pasta",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "devDependencies": {},
+  "scripts": {
+    "start" : "node src/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
